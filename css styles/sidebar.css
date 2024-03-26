@@ -1,0 +1,32 @@
+.side-bar{
+    background-color: white;
+    position: fixed;
+    left: 0;
+    top: 50px;
+    bottom: 0;
+    border-right-width: 2cap;
+    border-color: gray;
+    width: 80px;
+}
+
+
+.side-bar-buttons{
+    height: 77px;
+    width: 77px;
+    background-color: white;
+    border: 0;
+    cursor: pointer;
+}
+
+.side-bar-buttons:hover{
+    background-color: rgb(231, 231, 231);
+}
+
+.side-bar-icons{
+    height: 25px;
+}
+
+.side-bar-text{
+    font-size: 10px;
+
+}
